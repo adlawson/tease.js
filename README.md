@@ -2,7 +2,7 @@
 
 <img src="http://media.giphy.com/media/gMyoO4SfMhmzm/giphy.gif" alt="Pipeline" align="right" width=280/>
 
-**Version:** *1.0.0*<br/>
+**Version:** *1.0.1*<br/>
 **Master build:** [![Master branch build status][travis-master]][travis]<br/>
 
 ```bash
