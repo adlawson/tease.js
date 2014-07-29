@@ -2,7 +2,7 @@
     "name": "tease",
     "version": "1.0.0",
     "description": "Time zones with offsets and canonical links from the IANA Time Zone Database",
-    "keywords": ["canonical", "offset", "time", "timezone", "utc", "zone"],
+    "keywords": ["canonical", "offset", "tease", "time", "timezone", "utc", "zone"],
     "license": "MIT",
     "main": "src/index.js",
     "scripts": {
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:adlawson/zones.js"
+        "url": "git@github.com:adlawson/tease.js"
     },
     "devDependencies": {
         "chai": "~1.9",
