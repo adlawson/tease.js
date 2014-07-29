@@ -1,0 +1,19 @@
+{
+    "name": "tease",
+    "version": "1.0.0",
+    "description": "Time zones with offsets and canonical links from the IANA Time Zone Database",
+    "keywords": ["canonical", "offset", "time", "timezone", "utc", "zone"],
+    "license": "MIT",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node_modules/.bin/mocha --ui tdd --reporter spec test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:adlawson/zones.js"
+    },
+    "devDependencies": {
+        "chai": "~1.9",
+        "mocha": "~1.21"
+    }
+}
