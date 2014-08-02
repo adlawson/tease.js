@@ -2,12 +2,11 @@
 
 <img src="http://media.giphy.com/media/gMyoO4SfMhmzm/giphy.gif" alt="Pipeline" align="right" width=280/>
 
-**Version:** *1.0.1*<br/>
-**Master build:** [![Master branch build status][travis-master]][travis]<br/>
+[![Master branch build status][ico-build]][travis]
+[![Published version][ico-package]][npm]
+[![MIT Licensed][ico-license]][license]
 
-```bash
-$ npm install tease
-```
+### `$ npm install tease`
 
 This library provides basic time zone information with UTC and DST offsets and
 canonical links from the [IANA Time Zone Database][wiki]. It can be installed
@@ -70,8 +69,10 @@ The content of this library is released under the **MIT License** by
 [`LICENSE`][license] or at http://www.opensource.org/licenses/mit.
 
 <!-- Links -->
-[travis]: https://travis-ci.org/adlawson/tease.js
-[travis-master]: https://travis-ci.org/adlawson/tease.js.png?branch=master
 [npm]: https://npmjs.org/package/tease
+[travis]: https://travis-ci.org/adlawson/tease.js
+[ico-license]: http://img.shields.io/npm/l/tease.svg?style=flat
+[ico-package]: http://img.shields.io/npm/v/tease.svg?style=flat
+[ico-build]: http://img.shields.io/travis/adlawson/tease.js/master.svg?style=flat
 [license]: /LICENSE
 [wiki]: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
