@@ -70,9 +70,9 @@ The content of this library is released under the **MIT License** by
 
 <!-- Links -->
 [npm]: https://npmjs.org/package/tease
-[travis]: https://travis-ci.org/adlawson/tease.js
+[travis]: https://travis-ci.org/adlawson/nodejs-tease
 [ico-license]: http://img.shields.io/npm/l/tease.svg?style=flat
 [ico-package]: http://img.shields.io/npm/v/tease.svg?style=flat
-[ico-build]: http://img.shields.io/travis/adlawson/tease.js/master.svg?style=flat
+[ico-build]: http://img.shields.io/travis/adlawson/nodejs-tease/master.svg?style=flat
 [license]: /LICENSE
 [wiki]: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
